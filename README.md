@@ -9,3 +9,10 @@ with bootskip set to true
 based on linux kernel 5.15
 
 comes preinstalled with vim,gcc compiler
+
+preinstalled drivers:
+- vga gpu driver
+
+iso supports only x86_64 cpu architectures
+
+feel free to fork and recompile
