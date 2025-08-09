@@ -6,7 +6,7 @@ boots and as it boots it displays an cover of the album and plays the song (unsk
 this feature can be disabled by adding an os.cfg file to the root directory
 with bootskip set to true
 
-based on linux kernel 5.15
+based on the linux kernel
 
 comes preinstalled with vim,gcc && nasm compiler,sudo,python
 
