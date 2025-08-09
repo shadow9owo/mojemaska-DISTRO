@@ -8,7 +8,7 @@ with bootskip set to true
 
 based on linux kernel 5.15
 
-comes preinstalled with vim,gcc compiler
+comes preinstalled with vim,gcc && nasm compiler,sudo,python
 
 preinstalled drivers:
 - vga gpu driver
