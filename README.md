@@ -16,3 +16,5 @@ preinstalled drivers:
 iso supports only x86_64 cpu architectures
 
 feel free to fork and recompile
+
+shout out marty da virgin slappa (XD) aka reznik
